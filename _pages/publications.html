@@ -37,12 +37,15 @@ author_profile: true
   }
   .pub[open] > summary::before { transform: rotate(90deg); }
   .pub > summary:focus-visible { outline: 2px solid #b55956; outline-offset: 3px; }
+  .pub-intro { font-size: 0.85em; line-height: 1.6; margin: 0 0 1.6em; max-width: 46em; }
   .pub-abstract { margin: 0.7em 0 0.3em 1.6em; line-height: 1.6; }
   .pub-abstract p { font-size: 0.72em !important; margin: 0 0 0.6em; text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
   @media (prefers-reduced-motion: reduce) {
     .pub > summary::before { transition: none; }
   }
 </style>
+
+<p class="pub-intro">In addition to the work below, I have several manuscripts in preparation, including work on how paradigmatic transparency affects the visual recognition of complex words, and on how semantic relatedness propagates within derivational families.</p></p>
 
 {% assign pubs = site.publications | sort: "date" | reverse %}
 {% for p in pubs %}

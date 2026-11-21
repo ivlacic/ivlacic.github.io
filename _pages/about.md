@@ -17,7 +17,11 @@ redirect_from:
 ## News
 
 <ul class="news-list" id="news-list">
- <li class="news-item">
+<li class="news-item">
+    <span class="news-date">Nov 2026</span>
+    Paper "How rivalrous are rivals? A distributional semantic approach to gradient competition in evaluative morphology" accepted for publication in <em>Word Structure</em>.
+  </li>
+<li class="news-item">
     <span class="news-date">Sep 2026</span>
     Launched a morphology discussion group at UPF. Feel free to contact me if you're interested in joining.
   </li> 

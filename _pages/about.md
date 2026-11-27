@@ -19,7 +19,7 @@ redirect_from:
 <ul class="news-list" id="news-list">
   <li class="news-item">
     <span class="news-date">Nov 2026</span>
-    Paper <em>How rivalrous are rivals? A distributional semantic approach to gradient competition in evaluative morphology</em></a> accepted for publication in <em>Word Structure</em>.
+    Paper <em>How rivalrous are rivals? A distributional semantic approach to gradient competition in evaluative morphology</em> accepted for publication in <em>Word Structure</em>.
     <a class="news-tag" href="/files/Lacic_WS.pdf" target="_blank" rel="noopener">[preprint]</a>
   </li>
 <li class="news-item">
